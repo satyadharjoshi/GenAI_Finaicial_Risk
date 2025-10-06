@@ -1,6 +1,7 @@
 # GenAI_Financial_Risk
 
-Research on Generative AI in Financial Risk Management, Policy Making, Business, Workforce Development and Healthcare. 
+Research on Generative AI in Financial Risk Management, Policy Making, Business, Workforce Development and Healthcare. Research and implementations exploring Generative AI applications in financial risk management and beyond. Publications spanning financial modeling, policy frameworks, workforce development, and healthcare applications. Research covers strategic AI leadership, regulatory compliance, healthcare, cybersecurity, and economic impacts of agentic AI systems. The repository serves as both an academic reference and practical toolkit for AI researchers, financial analysts, and policymakers. 
+
 
 This repository contains supporting materials for published research papers. To see the complete published work, visit [Research Gate](https://www.researchgate.net/profile/Satyadhar-Joshi-2).
 
