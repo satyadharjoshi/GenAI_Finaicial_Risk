@@ -109,9 +109,13 @@ DOI: 10.2139/ssrn.5221746
 A Survey of Mixture of Experts Models: Architectures and Applications in Business and Finance
 DOI: 10.2139/ssrn.5221746
 
+
 Comprehensive Review of Artificial General Intelligence (AGI), Agentic AI and GenAI: Current Trends and Future Directions
 DOI: 10.2139/ssrn.5221746
 
 Implementing Gen AI for Increasing Robustness of U.S. Financial and Regulatory System
 DOI: 10.2139/ssrn.5221746
 
+Joshi, Satyadhar (2025). A Comprehensive Framework for U.S. AI Export Leadership: Analysis, Implementation, and Strategic Recommendations. Comment published at International Trade Administration, Regulations.gov. [https://doi.org/10.5281/zenodo.17823269] [https://downloads.regulations.gov/ITA-2025-0070-0042/attachment_1.pdf]
+
+Joshi, Satyadhar (2025). Regulatory Reform for Agentic AI: Addressing Governance Challenges in Federal AI Adoption. In Comments published at the Office of Science and Technology Policy, Regulations.gov. Zenodo. [https://doi.org/10.5281/zenodo.17808694] [https://downloads.regulations.gov/OSTP-TECH-2025-0067-0401/attachment_1.pdf]
